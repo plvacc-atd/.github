@@ -1,5 +1,14 @@
 # Instrukcja: Jak dodawać treści do bazy wiedzy
 
+## Spis treści
+- [Krok 1: Założenie konta na GitHub](#krok-1-założenie-konta-na-github)
+- [Krok 2: Dostęp do bazy wiedzy](#krok-2-dostęp-do-bazy-wiedzy)
+- [Krok 3: Edycja istniejącego dokumentu lub dodanie nowego](#krok-3-edycja-istniejącego-dokumentu-lub-dodanie-nowego)
+- [Krok 4: Formatowanie tekstu (Markdown)](#krok-4-formatowanie-tekstu-markdown)
+- [Krok 5: Zgłoszenie zmian do weryfikacji (Pull Request)](#krok-5-zgłoszenie-zmian-do-weryfikacji-pull-request)
+- [Alternatywne metody edycji](#alternatywne-metody-edycji)
+
+
 Ta instrukcja przeprowadzi Cię krok po kroku przez proces dodawania i edytowania artykułów w naszej bazie wiedzy. Wszystko zrobisz bezpośrednio w przeglądarce internetowej, bez konieczności instalowania jakichkolwiek programów. Zdaję sobie sprawę, że tworzenie dłuższych tekstów w przeglądarce nie jest najwygodniejszym rozwiazaniem. Jeśli więc interesuje Cię współpraca w większym zakresie, to w dalszej części dokumentu przedstawię dwie alternatywy do pracy w przeglądarce.
 
 ---
@@ -48,15 +57,15 @@ Gdy skończysz pisać lub edytować tekst:
 
 Dokument trafi do zatwierdzenia i w przypadku pozytywnej weryfikacji dołączy do zbioru.
 
-# Alternatywne metody edycji
+## Alternatywne metody edycji
 
-## 1. Edytor Markdown
+### 1. Edytor Markdown
 
 (work in progress)
 
 Zettlr i Ctrl+C Ctrl+V w przeglądarce
 
-## 2. Edytor z integracją z GitHub
+### 2. Edytor z integracją z GitHub
 
 (work in progress)
 
