@@ -26,6 +26,8 @@ Jeśli nie posiadasz jeszcze konta, musisz je utworzyć:
 
 ## Krok 3: Edycja istniejącego dokumentu lub dodanie nowego
 
+Baza wiedzy PLVACC znajduje się w tym repozytorium: [PLVACC ATD Wiki](https://github.com/plvacc-atd/wiki)
+
 ### Opcja A: Edycja istniejącego artykułu
 1. Znajdź plik, który chcesz poprawić, i kliknij w jego nazwę.
 2. W prawym górnym rogu widoku pliku kliknij ikonę **ołówka** (*Edit this file*).
@@ -33,9 +35,9 @@ Jeśli nie posiadasz jeszcze konta, musisz je utworzyć:
 4. Wprowadź swoje poprawki w polu tekstowym.
 
 ### Opcja B: Dodanie nowego artykułu
-1. Przejdź do folderu, w którym chcesz umieścić nowy artykuł (np. `artykuly/`).
+1. Przejdź do folderu, w którym chcesz umieścić nowy artykuł (np. `docs/S2/`).
 2. W prawym górnym rogu kliknij przycisk **Add file** i wybierz **Create new file**.
-3. Wpisz nazwę pliku, pamiętając, aby na końcu dodać rozszerzenie `.md` (np. `moj-artykul.md`).
+3. Wpisz nazwę pliku, pamiętając, aby na końcu dodać rozszerzenie `.md` (np. `identyfikacja-statkow-powietrznych.md`).
 4. Wpisz treść artykułu w polu poniżej.
 
 ## Krok 4: Formatowanie tekstu (Markdown)
